@@ -1,4 +1,4 @@
-# Programming Exercise 4: feed forward single/multiple-hidden layer classifier for thyroid
+# Programming Exercise 4: Feed Forward Single/Multiple-Hidden Layer Classifier for Thyroid Dataset
 ## Description
 Python (sklearn-based) implementation that explores how different parameters impact a feed-forward neural network with single/multiple hidden layer. 
 
