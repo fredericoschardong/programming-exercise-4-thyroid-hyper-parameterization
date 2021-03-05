@@ -1,5 +1,7 @@
 # Feed Forward Single/Multiple-Hidden Layer Classifier for Thyroid Dataset
+
 ## Description
+
 Python (sklearn-based) implementation that explores how different parameters impact a feed-forward neural network with single/multiple hidden layers. 
 
 A brief analysis of the results is [provided in Portuguese](https://github.com/fredericoschardong/thyroid-hyper-parameterization/blob/master/report%20in%20portuguese.pdf). It was submitted as an assignment of a graduate course named [Connectionist Artificial Intelligence](https://moodle.ufsc.br/mod/assign/view.php?id=2122514) at UFSC, Brazil.
@@ -16,6 +18,4 @@ Before normalization | MinMax normalization  |  Yeo-Johnson normalization
 ## Results
 
 ![](https://raw.githubusercontent.com/fredericoschardong/thyroid-hyper-parameterization/master/f1-scores.png "")
-
-
 ![](https://raw.githubusercontent.com/fredericoschardong/thyroid-hyper-parameterization/master/params.png "")
